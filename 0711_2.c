@@ -1,3 +1,4 @@
+//x^n 구하기
 #include <stdio.h>
 int square(int under, int up)
 {
