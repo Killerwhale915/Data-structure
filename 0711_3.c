@@ -1,5 +1,5 @@
+// 소수 판별하기
 #include <stdio.h>
-
 int sosu(int n, int i)
 {
     if (i == 1)
